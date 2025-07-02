@@ -16,7 +16,7 @@ I am a data scientist with a background in finance, driven by the challenge of s
 
 My work blends statistical rigor, machine learning, and cross-functional collaboration to generate actionable insights and build scalable solutions. I especially enjoy projects that drive social impact.
 
-When I’m not working with data, you can find me exploring new countries, learning languages, or diving into a good book.
+My personal interests include travel, reading, and walking around Chicago!
 
 ---
 
@@ -35,21 +35,44 @@ When I’m not working with data, you can find me exploring new countries, learn
 
 ---
 
-## Featured Projects
-- **EarlySignal: GeoHealth Outbreak Monitor**  
-  Led a capstone team to build a mobile-ready chatbot for geotagged illness reporting and outbreak detection.
-  
+## 📂 Featured Projects
+
+### Traditional Machine Learning
 - **Diabetes Risk Prediction**  
-  Developed classifiers to predict early diabetes risk using CDC survey data with a focus on healthcare applications.
-  
-- **NYC Air Quality Forecasting**  
-  Built time series models to forecast AQI in Manhattan, identifying key weather drivers of pollution trends.
-  
-- **eCommerce Bookstore Recommender**  
-  Designed a customer segmentation and recommendation engine that boosted revenue through personalized offers.
-  
-- **Yoga Pose Classification & BMI Prediction**  
-  Applied computer vision and deep learning to classify yoga poses and estimate BMI from facial images.
+  Built and tuned classification models to predict early diabetes risk using CDC survey data. Achieved an F1-score of 0.77 and recall of 0.80 to prioritize minimizing missed diagnoses. Applied SHAP to interpret model drivers such as blood pressure, BMI, and age.
+
+- **Verizon Customer Default Risk Prediction**  
+  Developed a Random Forest classifier to predict customer churn at account creation, achieving 91% accuracy. Enabled targeted retention strategies that generated an estimated $536M revenue uplift per 1M applicants.
+
+- **eCommerce Bookstore Recommendation Engine**  
+  Created a recommendation system using RFM-based K-Means customer segmentation. Personalized marketing workflows led to $545K in incremental revenue through tailored offers.
+
+---
+
+### Time Series Forecasting
+- **Ecolab Time Series Forecasting Project**  
+  Developed a time series anomaly detection model for commercial equipment failure, improving early detection and reducing false alarms in operational settings.
+
+- **NYC Air Quality Index Forecasting**  
+  Engineered and compared Naïve, Seasonal Naïve, ARIMA, SARIMA, and SARIMAX models using 25 years of Manhattan AQI data. The final SARIMAX model achieved the lowest RMSE (14.6) and revealed wind speed as a key driver for pollution mitigation strategies.
+
+---
+
+### Computer Vision
+- **Yoga Pose Classification**  
+  Designed and trained a convolutional neural network (CNN) to classify 107 yoga poses with validation accuracy up to 70% using transfer learning (EfficientNet). Developed a live web app using quantized TFLite models.
+
+- **BMI Estimation from Facial Images**  
+  Built a deep learning-based computer vision pipeline to estimate BMI from facial images. Fine-tuned VGG-Face and VGG-Net models, achieving a validation MAE of 4.7 BMI points. Further improved predictions using ensemble regression models.
+
+---
+
+### Agentic AI & NLP
+- **Ecolab Conversational Agent**  
+  Supported the development of a chatbot for client-facing projects, enabling automated interaction and streamlined information retrieval in a commercial setting.
+
+- **EarlySignal: GeoHealth Outbreak Monitor**  
+  Led a capstone team to build a mobile-ready conversational agent for real-time illness reporting and geotagged outbreak alerts. Designed and deployed agent-based orchestration and end-to-end pipelines for public health monitoring.
 
 ---
 
