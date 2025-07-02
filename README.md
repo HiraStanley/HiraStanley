@@ -57,7 +57,7 @@ My personal interests include travel, reading, and walking around Chicago!
 ---
 
 ### Computer Vision
- **Floor Plan Object Detection and Inpainting**  
+- **Floor Plan Object Detection and Inpainting**  
   Built a full-stack system that detects objects in 2D floor plans, reconstructs 3D layouts, and enables text-guided customization using Stable Diffusion inpainting. Deployed object detection and segmentation pipelines for automated scene rendering.
   
 - **Yoga Pose Classification**  
