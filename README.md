@@ -4,21 +4,21 @@ Welcome to my personal repository! This space showcases a collection of the proj
 
 ---
 
-## Education
+## 📚 Education
 - 🎓 **M.S. in Applied Data Science** | University of Chicago | Expected Dec 2025
 - 🎓 **B.S. in Finance** | University of Texas at Dallas | Graduated Dec 2017
 - 📍 International Study | Philipps-Universität Marburg, Germany
 
 ---
 
-## About Me
+## 🎯 About Me
 I am a data scientist with a background in finance and data analytics, driven by the challenge of solving complex, meaningful problems using data. My work blends statistical rigor, machine learning, and cross-functional collaboration to generate actionable insights and build scalable solutions. I especially enjoy projects that drive social impact.
 
 My personal interests include travel, reading, and walking around Chicago!
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 - **Data Science Intern** | Ecolab  
   Worked on time series modeling, anomaly detection, and chatbot development for commercial clients.
   
@@ -78,7 +78,7 @@ My personal interests include travel, reading, and walking around Chicago!
 
 ---
 
-## Technical Skills
+## 💻 Technical Skills
 
 ### Programming & Data Engineering
 - **Languages:** Python, SQL, R, PySpark
@@ -106,7 +106,7 @@ My personal interests include travel, reading, and walking around Chicago!
 
 ---
 
-## Let’s Connect!
+## 🤝 Let’s Connect!
 Feel free to explore my projects and reach out if you’d like to connect or chat about data science.
 
 - [LinkedIn](https://www.linkedin.com/in/hirastanley95/)
