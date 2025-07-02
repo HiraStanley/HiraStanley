@@ -12,9 +12,7 @@ Welcome to my personal repository! This space showcases a collection of the proj
 ---
 
 ## About Me
-I am a data scientist with a background in finance, driven by the challenge of solving complex, meaningful problems using data. I enjoy building full-stack, production-ready solutions that make an impact—from conversational AI and time series forecasting to computer vision and recommendation systems.
-
-My work blends statistical rigor, machine learning, and cross-functional collaboration to generate actionable insights and build scalable solutions. I especially enjoy projects that drive social impact.
+I am a data scientist with a background in finance and data analytics, driven by the challenge of solving complex, meaningful problems using data. My work blends statistical rigor, machine learning, and cross-functional collaboration to generate actionable insights and build scalable solutions. I especially enjoy projects that drive social impact.
 
 My personal interests include travel, reading, and walking around Chicago!
 
@@ -59,6 +57,9 @@ My personal interests include travel, reading, and walking around Chicago!
 ---
 
 ### Computer Vision
+ **Floor Plan Object Detection and Inpainting**  
+  Built a full-stack system that detects objects in 2D floor plans, reconstructs 3D layouts, and enables text-guided customization using Stable Diffusion inpainting. Deployed object detection and segmentation pipelines for automated scene rendering.
+  
 - **Yoga Pose Classification**  
   Designed and trained a convolutional neural network (CNN) to classify 107 yoga poses with validation accuracy up to 70% using transfer learning (EfficientNet). Developed a live web app using quantized TFLite models.
 
@@ -69,7 +70,8 @@ My personal interests include travel, reading, and walking around Chicago!
 
 ### Agentic AI & NLP
 - **Ecolab Conversational Agent**  
-  Supported the development of a chatbot for client-facing projects, enabling automated interaction and streamlined information retrieval in a commercial setting.
+  Developed a Databricks agent to assist with troubleshooting and equipment diagnostics by vectorizing documentation related to broken parts and repair procedures. Enabled semantic search and retrieval to improve response accuracy for client-facing support.
+
 
 - **EarlySignal: GeoHealth Outbreak Monitor**  
   Led a capstone team to build a mobile-ready conversational agent for real-time illness reporting and geotagged outbreak alerts. Designed and deployed agent-based orchestration and end-to-end pipelines for public health monitoring.
@@ -89,7 +91,7 @@ My personal interests include travel, reading, and walking around Chicago!
 
 ### Natural Language Processing
 - **Toolkits:** Hugging Face (Transformers), Spacy, NLTK, Gensim
-- **Methods:** Topic Modeling, Retrieval-Augmented Generation (RAG), Regular Expressions (RegEx)
+- **Methods:** Topic Modeling, Retrieval-Augmented Generation (RAG), Regular Expressions (RegEx), Sentiment Analysis
 
 ### Data Visualization & BI
 - **Tools:** Power BI, Tableau, Looker, Plotly, Matplotlib, Seaborn
