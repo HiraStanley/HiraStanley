@@ -1,17 +1,17 @@
-# Hi, I'm Hira! 👋
+# Hi, I'm Hira!
 
 Welcome to my personal repository! This space showcases a collection of the projects I've worked on throughout my data science journey, where I’ve applied machine learning, NLP, computer vision, time series analysis, and end-to-end pipeline development to real-world problems across industries like healthcare, finance, marketing, and environmental analytics.
 
 ---
 
-## 📚 Education
+## Education
 - 🎓 **M.S. in Applied Data Science** | University of Chicago | Expected Dec 2025
 - 🎓 **B.S. in Finance** | University of Texas at Dallas | Graduated Dec 2017
 - 📍 International Study | Philipps-Universität Marburg, Germany
 
 ---
 
-## 🌸 About Me
+## About Me
 I am a data scientist with a background in finance, driven by the challenge of solving complex, meaningful problems using data. I enjoy building full-stack, production-ready solutions that make an impact—from conversational AI and time series forecasting to computer vision and recommendation systems.
 
 My work blends statistical rigor, machine learning, and cross-functional collaboration to generate actionable insights and build scalable solutions. I especially enjoy projects that drive social impact.
@@ -20,7 +20,7 @@ When I’m not working with data, you can find me exploring new countries, learn
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 - **Data Science Intern** | Ecolab  
   Worked on time series modeling, anomaly detection, and chatbot development for commercial clients.
   
@@ -35,7 +35,7 @@ When I’m not working with data, you can find me exploring new countries, learn
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 - **EarlySignal: GeoHealth Outbreak Monitor**  
   Led a capstone team to build a mobile-ready chatbot for geotagged illness reporting and outbreak detection.
   
@@ -53,7 +53,7 @@ When I’m not working with data, you can find me exploring new countries, learn
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Programming & Data Engineering
 - **Languages:** Python, SQL, R, PySpark
@@ -81,11 +81,11 @@ When I’m not working with data, you can find me exploring new countries, learn
 
 ---
 
-## 🌱 Let’s Connect!
+## Let’s Connect!
 Feel free to explore my projects and reach out if you’d like to connect or chat about data science.
 
 - [LinkedIn](https://www.linkedin.com/in/hirastanley95/)
 
 ---
 
-Thank you for stopping by! 🚀
+Thank you for stopping by! 
