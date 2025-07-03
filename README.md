@@ -12,9 +12,7 @@ Welcome to my personal repository! This space showcases a collection of the proj
 ---
 
 ## 🎯 About Me
-I am a data scientist with a background in finance and data analytics, driven by the challenge of solving complex, meaningful problems using data. My work blends statistical rigor, machine learning, and cross-functional collaboration to generate actionable insights and build scalable solutions. I especially enjoy projects that drive social impact.
-
-My personal interests include travel, reading, and walking around Chicago!
+I am a data scientist with a background in finance and data analytics, driven by the challenge of solving complex, meaningful problems using data. My work blends statistical rigor, machine learning, and cross-functional collaboration to generate actionable insights and build scalable solutions. I especially enjoy projects that cover politics, media, travel, or social impact.
 
 ---
 
@@ -103,8 +101,9 @@ My personal interests include travel, reading, and walking around Chicago!
 - **Tools:** Atlassian JIRA, Trello
 - **Methodology:** Agile Project Management
 
-### On My To Do List (To Learn List)
+### What I'm Learning Next
 - **Big Data:** Spark, Hadoop, Hive, MapReduce
+- **Causal Inference:** A/B Testing, Propensity Score Matching, Experimental Design
 
 ---
 
