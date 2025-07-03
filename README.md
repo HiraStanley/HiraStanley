@@ -81,9 +81,8 @@ My personal interests include travel, reading, and walking around Chicago!
 ## 💻 Technical Skills
 
 ### Programming & Data Engineering
-- **Languages:** Python, SQL, R, PySpark
-- **Big Data:** Spark, Hadoop, Hive, MapReduce
-- **Databases & Cloud:** Google Cloud Platform (GCP), Databricks, Azure, BigQuery, Relational Databases (SQL)
+- **Languages:** Python, SQL, R
+- **Databases & Cloud:** Google Cloud Platform (GCP), Databricks, BigQuery, Relational Databases (SQL)
 
 ### Machine Learning & Data Science
 - **Techniques:** Supervised Learning (Linear Regression, Random Forest, Gradient Boosting, Classification, MLPs), Unsupervised Learning (Clustering, PCA), Time Series Forecasting, Model Evaluation and Diagnostics
@@ -103,6 +102,9 @@ My personal interests include travel, reading, and walking around Chicago!
 ### Project Management
 - **Tools:** Atlassian JIRA, Trello
 - **Methodology:** Agile Project Management
+
+### On My To Do List (To Learn List)
+- **Big Data:** Spark, Hadoop, Hive, MapReduce
 
 ---
 
