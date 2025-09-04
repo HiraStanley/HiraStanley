@@ -31,7 +31,7 @@ I am a data scientist with a background in finance and data analytics, driven by
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 ### Traditional Machine Learning
 - **Diabetes Risk Prediction**  
@@ -74,6 +74,8 @@ I am a data scientist with a background in finance and data analytics, driven by
 - **EarlySignal: GeoHealth Outbreak Monitor**  
   Led a capstone team to build a mobile-ready conversational agent for real-time illness reporting and geotagged outbreak alerts. Designed and deployed agent-based orchestration and end-to-end pipelines for public health monitoring.
 
+- **Assessing AI's Impact on Jobs with NLP**  
+  Processed 200K+ news articles on AI’s impact on jobs using regex text cleaning, BERTopic clustering, and spaCy NER for entity extraction, combined with Hugging Face Transformer-based sentiment classification to uncover industry trends and behavioral insights.
 ---
 
 ## 💻 Technical Skills
