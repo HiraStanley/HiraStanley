@@ -18,7 +18,6 @@ I am a data scientist with a background in finance and data analytics, driven by
 
 ## 💼 Professional Experience
 - **Data Scientist Level 2** | West Monroe Partners 
-  Consultant on Data Science team within Data & Analytics practice.
   
 - **Data Science Intern** | Ecolab  
   Worked on time series modeling, anomaly detection, and chatbot development for commercial clients.
